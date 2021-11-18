@@ -6,18 +6,18 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.1.46",
-        "illuminate/html": "~5.0",
-        "edvinaskrucas/notification": "dev-features/laravel-5",
-        "overtrue/laravel-lang": "dev-master",
-        "yuanchao/laravel-5-markdown-editor": "dev-master",
-        "mews/captcha": "~2.0",
-        "doctrine/dbal" : "2.4.*",
+               	"illuminate/html": "~5.0",
+        	"edvinaskrucas/notification": "dev-features/laravel-5",
+        	"overtrue/laravel-lang": "dev-master",
+        	"yuanchao/laravel-5-markdown-editor": "dev-master",
+        	"mews/captcha": "~2.0",
+        	"doctrine/dbal" : "2.4.*",
 	  	"predis/predis":"~1.0"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
 		"phpspec/phpspec": "~2.1",
-        "laracasts/generators": "2.0.0"
+                "laracasts/generators": "~2.0.0"
 	},
 	"autoload": {
 		"classmap": [
